@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 c7336dceeb032f25a7188166f2b3bb476def275e steven francisco <stvnfrancisco@yahoo.com> 1433264233 -0700	commit (initial): initial files added
+c7336dceeb032f25a7188166f2b3bb476def275e b2d71d81a9d06053569765a21de37184f1c549ae steven francisco <stvnfrancisco@yahoo.com> 1433267719 -0700	commit: specs passing... some front end functioning
+b2d71d81a9d06053569765a21de37184f1c549ae 9894d5aba7b55dbd4eb5e8927fbc02738fe6fe61 steven francisco <stvnfrancisco@yahoo.com> 1433270837 -0700	commit: allows user to create a list of places visited
+9894d5aba7b55dbd4eb5e8927fbc02738fe6fe61 027317786527be4beb357411fa48bf95c2a464ae steven francisco <stvnfrancisco@yahoo.com> 1433279007 -0700	commit: added css
+027317786527be4beb357411fa48bf95c2a464ae 71a01f3aede0d4ab1b83d694c9c348507f6b0e52 steven francisco <stvnfrancisco@yahoo.com> 1433280785 -0700	commit: add config file

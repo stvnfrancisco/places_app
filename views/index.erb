@@ -1,0 +1,18 @@
+<h1>Destinations</h1>
+
+<p><h3>Places Visited:</h3></p>
+
+<ul>
+  <% @places.each() do |place| %>
+    <li><h4><%= place.description() %> </h4></li>
+  <% end %>
+</ul>
+
+<p><h5>Add a new destination:</h5></p>
+
+<form action="/places" method="post">
+  <label for="description"><x>City</x></label>
+  <input id="description" name="description" type="text">
+
+  <button type="submit" class="btn btn-primary"> Add a Place</button>
+</form>
